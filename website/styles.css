@@ -14,21 +14,10 @@ body {
 
 /* Header styles */
 
-/*
 header {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px 40px;
-    background: rgba(255, 255, 255, 0.9);
-    backdrop-filter: blur(10px);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-}
-*/
-header {
-    display: flex;
-    align-items: center; /* Aligns items vertically */
-    justify-content: space-between; /* Spreads out elements */
+    align-items: center; 
+    justify-content: space-between; 
     padding: 20px 40px;
     background: rgba(255, 255, 255, 0.9);
     backdrop-filter: blur(10px);
