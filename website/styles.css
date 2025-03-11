@@ -184,21 +184,18 @@ footer {
 }
 
 .game-info ul {
-   
-    list-style: none;
     margin-bottom: 30px;
+    padding-left: 5rem;
 }
 
 .game-info li {
     text-align: left;
-    
 }
 
 .game-info div {
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
 .game-info img {
     max-width: 100%;
