@@ -24,9 +24,16 @@ header {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
+header .logo-container {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
 
 header .logo img {
     height: 50px;
+
+   
 }
 
 nav ul {
