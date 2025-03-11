@@ -184,10 +184,22 @@ footer {
 }
 
 .game-info ul {
+   
     list-style: none;
     margin-bottom: 30px;
 }
 
+.game-info li {
+    text-align: left;
+    
+}
+
+.game-info div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
 .game-info img {
     max-width: 100%;
     height: auto;
@@ -209,3 +221,4 @@ footer {
 .game-info button:hover {
     background-color: #005bb5;
 }
+
