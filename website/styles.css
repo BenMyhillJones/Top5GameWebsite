@@ -184,6 +184,9 @@ footer {
 }
 
 .game-info ul {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
     list-style: none;
     margin-bottom: 30px;
 }
@@ -209,3 +212,4 @@ footer {
 .game-info button:hover {
     background-color: #005bb5;
 }
+
