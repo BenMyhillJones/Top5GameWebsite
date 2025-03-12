@@ -187,7 +187,7 @@ footer {
 
 .game-info ul {
     margin-bottom: 30px;
-    
+    list-style: none;
 }
 
 .game-info li {
